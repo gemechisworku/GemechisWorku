@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @GemechisWorku
 - 👀 Bachelor of Science in Software Engineering 
-- 🌱 I’m currently working as a Payment Switch Administrator at Cooperative Bank of Oromia
-- 💞️ I’m looking to collaborate on website and mobile app development projects primarly as a full stack developer (specialized in Django) ...
-- 💞️ I'm also a flutter developer with a solid experience in working with firebase, and Google Map API
-- 💞️ I'm open to collarate on data science and data analystics projects, skilled in SQL, Python
+- 🌱 I’m currently working as a Data Scientist and GenAI Engineer at BrainBite
+- 💞️ I’m looking to collaborate on Data Science and AI Engineering projects
+- 💞️ I'm specialize in engineering AI solutions leveraging LLMs, and AI Agents
 - 📫 You can reach me out via:
 -     email: game.worku@gmail.com
 -     phone: +251937745414 ...
